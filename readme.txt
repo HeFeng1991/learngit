@@ -11,10 +11,7 @@ Git is free software.
 
 20220706 V1
 
-<<<<<<< HEAD
-
 
 20220708 V2 main 
-=======
+
 2022-7-8 V
->>>>>>> ops_dev
